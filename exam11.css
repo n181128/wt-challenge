@@ -1,0 +1,29 @@
+h1{
+	background:linear-gradient(#085078,#85d8ce);
+	width: 110px;
+	border-radius: 10px;
+	border: 2px solid black;
+}
+.totalform{
+	background:url('one.jpg');
+	width: 600px;
+	height: 450px;
+	border: 1px solid #000;
+	position: absolute;
+	left: 30%;
+	top: 5%;
+	margin: 0px;
+	padding: 30px;
+	border-radius: 30px;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	background-size: cover;
+}
+label{
+	color: yellow;
+	font-size: 20px;
+	font-weight: bold;
+}
+.accoms label,.service label{
+	color: black;
+}
